@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${Mephiles-the-Dark}.${382429600})
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mephiles-the-Dark&show_icons=true&hide_border=true&include_all_commits=true" />
 <!--
 **Mephiles-the-Dark/Mephiles-the-Dark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
