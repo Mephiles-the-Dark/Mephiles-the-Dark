@@ -1,21 +1,25 @@
 ### Здоро́ваться  👋🏻
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mephiles-the-Dark&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" loading="lazy" />
-<a href="https://github.com/Mephiles-the-Dark/Better_Discord">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Mephiles-the-Dark&repo=Better_Discord&show_owner=true&hide_border=true&theme=tokyonight" alt="Better_Discord repository" loading="lazy" />
+<a href="https://github.com/Mephiles-the-Dark/Better_Discord/">
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Mephiles-the-Dark&repo=Better_Discord&show_owner=true&hide_border=true&theme=tokyonight" alt="Better_Discord repository" loading="lazy" />
 </a>
-<a href="https://github.com/Mephiles-the-Dark/Discord_Bots">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Mephiles-the-Dark&repo=Discord_Bots&show_owner=true&hide_border=true&theme=tokyonight" alt="Discord_Bots repository" loading="lazy" />
+<a href="https://github.com/Mephiles-the-Dark/Discord_Bots/">
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Mephiles-the-Dark&repo=Discord_Bots&show_owner=true&hide_border=true&theme=tokyonight" alt="Discord_Bots repository" loading="lazy" />
 </a>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Mephiles-the-Dark&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="Ме́филес's Github Stats" loading="lazy" />
 <img align="left" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=Mephiles-the-Dark.Mephiles-the-Dark&label=Visitors&labelColor=000000&logo=GitHub&logoColor=blueviolet&color=757575" alt="Visitor Counter" loading="lazy" />
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img align="left" src="https://img.shields.io/badge/Code-CSS-informational?logo=css3&logoColor=blueviolet&labelColor=black&color=757575" alt="CSS3" loading="lazy" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/">
+<img align="left" src="https://img.shields.io/badge/Code-CSS-informational?logo=css3&logoColor=blueviolet&labelColor=black&color=757575" alt="CSS3" loading="lazy" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
   <img align="left" src="https://img.shields.io/badge/Code-HTML-informational?logo=html5&logoColor=blueviolet&labelColor=black&color=757575" alt="HyperTextMarkupLanguage5" loading="lazy" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
   <img align="left" src="https://img.shields.io/badge/Code-JavaScript-informational?logo=javascript&logoColor=blueviolet&labelColor=black&color=757575" alt="JavaScript" loading="lazy" />
+</a>
+</a>
+<a href="https://www.mozilla.org/">
+  <img align="left" src="https://img.shields.io/badge/Browser-Firefox-informational?logo=firefoxbrowser&logoColor=blueviolet&labelColor=black&color=757575" alt="Mozilla Firefox" loading="lazy" />
 </a>
 <a href="https://discord.gg/sbA3xCJ">
   <img align="left" src="https://img.shields.io/badge/%D0%9C%D0%B5%CC%81%D1%84%D0%B8%D0%BB%D0%B5%D1%81%239198-Discord-informational?logo=discord&logoColor=blueviolet&labelColor=black&color=757575" alt="Ме́филес#9198 Discord" loading="lazy" />
