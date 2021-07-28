@@ -1,12 +1,12 @@
 ### Здоро́ваться  👋🏻
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mephiles-the-Dark&locale=ru&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" loading="lazy" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mephiles-the-Dark&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" loading="lazy" />
 <a href="https://github.com/Mephiles-the-Dark/Better_Discord">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Mephiles-the-Dark&locale=ru&repo=Better_Discord&show_owner=true&hide_border=true&theme=tokyonight" alt="Better_Discord repository" loading="lazy" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Mephiles-the-Dark&repo=Better_Discord&show_owner=true&hide_border=true&theme=tokyonight" alt="Better_Discord repository" loading="lazy" />
 </a>
 <a href="https://github.com/Mephiles-the-Dark/Discord_Bots">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Mephiles-the-Dark&locale=ru&repo=Discord_Bots&show_owner=true&hide_border=true&theme=tokyonight" alt="Discord_Bots repository" loading="lazy" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Mephiles-the-Dark&repo=Discord_Bots&show_owner=true&hide_border=true&theme=tokyonight" alt="Discord_Bots repository" loading="lazy" />
 </a>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Mephiles-the-Dark&locale=ru&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="Ме́филес's Github Stats" loading="lazy" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Mephiles-the-Dark&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="Ме́филес's Github Stats" loading="lazy" />
 <img align="left" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=Mephiles-the-Dark.Mephiles-the-Dark&label=Visitors&labelColor=000000&logo=GitHub&logoColor=blueviolet&color=757575" alt="Visitor Counter" loading="lazy" />
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
   <img align="left" src="https://img.shields.io/badge/Code-CSS-informational?logo=css3&logoColor=blueviolet&labelColor=black&color=757575" alt="CSS3" loading="lazy" />
